@@ -1,3 +1,7 @@
+* Database.py'de düzenleme yapıldı.
+* Requirements yüklemede sorun olduğu için newRequirements.txt olarak düzenlendi. 
+
+
 InsecureBankv2 Readme
 ==========
 
