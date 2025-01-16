@@ -1,0 +1,14 @@
+blinker==1.9.0
+cheroot==10.0.1
+click==8.1.8
+Flask==3.1.0
+greenlet==3.1.1
+itsdangerous==2.2.0
+jaraco.functools==4.1.0
+Jinja2==3.1.5
+MarkupSafe==3.0.2
+more-itertools==10.6.0
+simplejson==3.19.3
+SQLAlchemy==1.4.0
+typing_extensions==4.12.2
+Werkzeug==3.1.3
