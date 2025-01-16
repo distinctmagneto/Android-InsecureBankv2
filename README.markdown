@@ -1,4 +1,4 @@
-AndroServer çalıştırmada karşılaşılabilecek sorunlar için :
+AndroLabServer çalıştırmada karşılaşılabilecek sorunlar için :
 * Database.py'de düzenleme yapıldı.
 * Requirements yüklemede sorun olduğu için newRequirements.txt olarak düzenlendi. 
 
